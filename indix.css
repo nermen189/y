@@ -1,0 +1,17 @@
+body{
+    margin: initial;
+}
+.backg{
+    
+    background-size: cover;
+    width:1500px;
+}
+.backg2{
+    position: absolute;
+    top:200px;
+    left: 60px;
+    width:500px;
+}
+.backg2:hover {
+    width:600px;
+}

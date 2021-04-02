@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Kiwi Maru', serif;
+    text-align: center;
+    font-weight: bold;
+    font-size:40px;
+    color:green;
+    margin-bottom: 30px;
+}
+#pra{
+    text-align: center;
+    font-size: 25px;
+}
+div{
+    margin: 40px;
+}
+table tr th img {
+    width:300px;
+    height:250px;
+}
+table tr th img:hover{
+    width:400px;
+    height:300px;
+}
+h2{
+    text-align: center;
+    color:green;
+    font-weight: bold;
+    margin: 30px;
+}
